@@ -1,0 +1,21 @@
+body{
+    background-color: #ecff45;
+}
+
+.main{
+    margin: auto;
+    background-color: #8097ff;
+    width: max-content;
+    padding: 140px;
+    border-radius: 20px;
+}
+
+.main label{
+    display: block;
+}
+
+.main input{
+    margin-bottom: 15px;
+    width: 400px;
+    height: 20px;
+}
